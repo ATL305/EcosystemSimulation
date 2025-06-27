@@ -1,0 +1,16 @@
+﻿  main.cpp
+E:\C++\EcosystemSimulation\main.cpp(755,60): error C2065: “organisms”: 未声明的标识符
+E:\C++\EcosystemSimulation\main.cpp(835,60): error C2065: “organisms”: 未声明的标识符
+E:\C++\EcosystemSimulation\main.cpp(950,60): error C2065: “organisms”: 未声明的标识符
+E:\C++\EcosystemSimulation\main.cpp(1051,60): error C2065: “organisms”: 未声明的标识符
+E:\C++\EcosystemSimulation\main.cpp(1148,60): error C2065: “organisms”: 未声明的标识符
+E:\C++\EcosystemSimulation\main.cpp(1328,60): error C2065: “organisms”: 未声明的标识符
+E:\C++\EcosystemSimulation\main.cpp(1432,60): error C2065: “organisms”: 未声明的标识符
+E:\C++\EcosystemSimulation\main.cpp(1510,60): error C2065: “organisms”: 未声明的标识符
+E:\C++\EcosystemSimulation\main.cpp(1653,60): error C2065: “organisms”: 未声明的标识符
+E:\C++\EcosystemSimulation\main.cpp(1732,60): error C2065: “organisms”: 未声明的标识符
+E:\C++\EcosystemSimulation\main.cpp(1823,60): error C2065: “organisms”: 未声明的标识符
+E:\C++\EcosystemSimulation\main.cpp(1866,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\EcosystemSimulation\main.cpp(1867,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\EcosystemSimulation\main.cpp(2006,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\EcosystemSimulation\main.cpp(2007,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
